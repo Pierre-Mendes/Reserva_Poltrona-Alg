@@ -1,0 +1,13 @@
+C:\Users\CCE\OneDrive\Área de Trabalho\alg_Aval\bin\Debug\netcoreapp3.1\alg_Aval.exe
+C:\Users\CCE\OneDrive\Área de Trabalho\alg_Aval\bin\Debug\netcoreapp3.1\alg_Aval.deps.json
+C:\Users\CCE\OneDrive\Área de Trabalho\alg_Aval\bin\Debug\netcoreapp3.1\alg_Aval.runtimeconfig.json
+C:\Users\CCE\OneDrive\Área de Trabalho\alg_Aval\bin\Debug\netcoreapp3.1\alg_Aval.runtimeconfig.dev.json
+C:\Users\CCE\OneDrive\Área de Trabalho\alg_Aval\bin\Debug\netcoreapp3.1\alg_Aval.dll
+C:\Users\CCE\OneDrive\Área de Trabalho\alg_Aval\bin\Debug\netcoreapp3.1\alg_Aval.pdb
+C:\Users\CCE\OneDrive\Área de Trabalho\alg_Aval\obj\Debug\netcoreapp3.1\alg_Aval.csprojAssemblyReference.cache
+C:\Users\CCE\OneDrive\Área de Trabalho\alg_Aval\obj\Debug\netcoreapp3.1\alg_Aval.AssemblyInfoInputs.cache
+C:\Users\CCE\OneDrive\Área de Trabalho\alg_Aval\obj\Debug\netcoreapp3.1\alg_Aval.AssemblyInfo.cs
+C:\Users\CCE\OneDrive\Área de Trabalho\alg_Aval\obj\Debug\netcoreapp3.1\alg_Aval.csproj.CoreCompileInputs.cache
+C:\Users\CCE\OneDrive\Área de Trabalho\alg_Aval\obj\Debug\netcoreapp3.1\alg_Aval.dll
+C:\Users\CCE\OneDrive\Área de Trabalho\alg_Aval\obj\Debug\netcoreapp3.1\alg_Aval.pdb
+C:\Users\CCE\OneDrive\Área de Trabalho\alg_Aval\obj\Debug\netcoreapp3.1\alg_Aval.genruntimeconfig.cache
